@@ -28,7 +28,7 @@ Proje, MVC mimarisi kullanılarak geliştirilmiştir.
 *   S&P 500 hisse senetleri ve emtia verileri (Altın, Gümüş, Petrol vb.).
 *   Tarihsel fiyat hareketleri ve sektörel analizler.
 
-## 🛠 Teknolojiler
+## Teknolojiler
 
 *   **Backend:** Node.js, Express.js
 *   **Veritabanı:** MySQL 
